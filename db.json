@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "title": "Cosmetic",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6aT9pBuhczwSZTf68IXantuPGyEVxH-3APfmqwt6FRUFpDHBnYCMMhNmiyVZu0y6Zvg&usqp=CAU",
+      "link": "#",
+      "description": "",
+      "id": 1
+    },
+    {
+      "title": "Beauty Bar",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JYxk9rI3VHaZzr96BCfH9uQBGOLYI-VOH6dgjhVeDK-27sc5GQUkQ0aJTuRVBP2PPbQ&usqp=CAU",
+      "link": "#",
+      "description": "",
+      "id": 2
+    },
+    {
+      "title": "Skincare",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevgmHSQ7_DwUJ_LaVvB0I8Dl5O-eirx0Y3RFWqvvLYXklVj_z80lk86QXJGLrbw5_Huk&usqp=CAU",
+      "link": "#",
+      "description": "",
+      "id": 3
+    },
+    {
+      "title": "Beat",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIjfo6uEGnn4UQWugGrt10e8HNtqlsDapmtWnG6cg-54cCr19GbJlJARvZTdwxIrpPOY&usqp=CAU",
+      "link": "#",
+      "description": "",
+      "id": 4
+    },
+    {
+      "title": "Cosmetic",
+      "imageUrl": "https://cdn3.vectorstock.com/i/1000x1000/83/57/cosmetic-logo-vector-28548357.jpg",
+      "link": "#",
+      "description": "",
+      "id": 5
+    },
+    {
+      "title": "Prim Rose",
+      "imageUrl": "https://images-platform.99static.com//J0x_VJc4FNpTRzqlF6TQdUnBrCI=/250x0:1006x756/fit-in/500x500/99designs-contests-attachments/92/92942/attachment_92942895",
+      "link": "#",
+      "description": "",
+      "id": 6
+    }
+  ]
+}
